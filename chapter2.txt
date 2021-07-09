@@ -4,3 +4,5 @@ Lorem ipsum for chapter2
 Line 2, enhancement for following things
 
 Alternate
+
+End of chapter 2
